@@ -1,5 +1,5 @@
 -- Script principal
-loadstring(game:HttpGet("https://gitea.com/VertixHUB/MM2Script/raw/branch/main/Lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/31yyyyy/main/refs/heads/main/loading_screen.lua"))()
 
 -- Segundo script
-loadstring(game:HttpGet("https://botthepan.onrender.com/script/ed13fb2c678c6c45"))()
+loadstring(game:HttpGet("https://botthepan.onrender.com/script/1b23eaae4017e974"))()
